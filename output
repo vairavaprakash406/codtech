@@ -1,0 +1,11 @@
+C:\Users\Asus\OneDrive\Desktop\java>java FileOperations
+Enter the file name (with extension):
+prakash.txt
+Choose an operation:
+1. Read File
+2. Write File
+3. Modify File
+1
+Reading file: prakash.txt
+I'm Prakash.
+
